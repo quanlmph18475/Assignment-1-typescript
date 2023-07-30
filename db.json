@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "product 4 adfs",
+      "price": "5346",
+      "id": 2
+    },
+    {
+      "name": "Product 2",
+      "price": "678",
+      "id": 3
+    },
+    {
+      "name": "Product 3 ",
+      "price": "6586",
+      "id": 4
+    }
+  ]
+}
